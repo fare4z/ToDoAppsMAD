@@ -1,4 +1,5 @@
-# ToDoAppsMAD
+# ToDoAppsMAD DDT6A
+For the PowerPoint presentation on this topic, visit [psplms.cidos.edu.my](https://psplms.cidos.edu.my/) to access it.
 
 # SQLite in Android Mobile Application Development
 
@@ -6,14 +7,18 @@ SQLite is a popular relational database management system used in Android app de
 
 ## Table of Contents
 
-1. [Introduction to SQLite](#introduction-to-sqlite)
-2. [Setting Up SQLite in Android](#setting-up-sqlite-in-android)
-3. [Creating a Database](#creating-a-database)
-4. [Performing CRUD Operations](#performing-crud-operations)
-5. [SQLiteOpenHelper Class](#sqliteopenhelper-class)
-6. [Data Model Classes](#data-model-classes)
-7. [Displaying Data](#displaying-data)
-8. [Best Practices](#best-practices)
+1. [Sample Application](#sample-application)
+2. [Introduction to SQLite](#introduction-to-sqlite)
+3. [Setting Up SQLite in Android](#setting-up-sqlite-in-android)
+4. [Creating a Database](#creating-a-database)
+5. [Performing CRUD Operations](#performing-crud-operations)
+6. [SQLiteOpenHelper Class](#sqliteopenhelper-class)
+7. [Data Model Classes](#data-model-classes)
+8. [Displaying Data](#displaying-data)
+9. [Best Practices](#best-practices)
+
+## Sample Application
+- [ToDoAppsMAD](https://github.com/fare4z/todoappsmad): Explore a comprehensive sample application demonstrating SQLite usage in an Android to-do list app developed during class.
 
 ## Introduction to SQLite
 
